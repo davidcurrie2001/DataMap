@@ -1,5 +1,5 @@
 # Note - msodbcsql17 v17.3 required OpenSSL 1.0.2, but the later version of the R Docker images had OpenSSL 1.1 installed
-# # so this image is based on rocker/r-ver:3.4 instead.  Once msodbcsql17 v17.4 is release I shoudl be be able to revert back to using the
+# # so this image is based on rocker/r-ver:3.4 instead.  Once msodbcsql17 v17.4 is released I shoudl be be able to revert back to using the
 # trestletech/plumber image directly
 FROM rocker/r-ver:3.4
 MAINTAINER Marine Institute
