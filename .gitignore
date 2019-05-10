@@ -39,3 +39,6 @@ rsconnect/
 *.bat
 
 .Rproj.user
+
+# File with real connection details
+MyConfig.R
